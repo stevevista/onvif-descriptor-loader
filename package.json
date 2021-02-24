@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+  },
+  "deprecated": false,
+  "description": "ONVIF wsdl loader for webpack",
+  "keywords": [
+    "wsdl",
+    "soap",
+    "onvif"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:stevevista/onvif-descriptor-loader.git"
+  },
+  "main": "index.js",
+  "name": "onvif-descriptor-loader",
+  "version": "0.1.0"
+}
